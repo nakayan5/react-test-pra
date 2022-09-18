@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoItem render 1`] = `
+<DocumentFragment>
+  <li
+    class="sc-gsnTZi htWKeh"
+  >
+    <p
+      class="sc-dkzDqf fiSRPH"
+    />
+    <div
+      class="sc-hKMtZM"
+    >
+      <button
+        class="sc-bczRLJ"
+      >
+        完了
+      </button>
+    </div>
+  </li>
+</DocumentFragment>
+`;
