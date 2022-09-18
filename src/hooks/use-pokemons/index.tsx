@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
-import { fetchPokemons, TPokemon } from "../../api/pokemon";
+import { fetchPokemons } from "../../api/pokemon";
+import { TPokemon } from "../../model/pokemon";
 
 export const usePokemons = (size: number) => {
   const [loading, setLoading] = useState(false);

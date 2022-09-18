@@ -9,7 +9,7 @@ import {
   dataPokemonsSyncMock,
   noDataPokemonsSyncMock,
   WrappedNativeFetch,
-} from "../../../mock/pokemons";
+} from "../../../mock/pokemon";
 
 // 1. ユーザーが画面に来ると先にローディング UI が表示される
 // 2. API からレスポンスを受けるとリストでポケモンが表示される

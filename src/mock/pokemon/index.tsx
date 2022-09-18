@@ -1,5 +1,5 @@
-import { TPokemon } from "../../api/pokemon";
 import { NativeFetch } from "../../components/parts/NativeFetch";
+import { TPokemon } from "../../model/pokemon";
 import { ErrorBoundary } from "../../test-utils/error";
 
 type TResposnse = {
